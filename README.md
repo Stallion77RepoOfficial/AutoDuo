@@ -1,6 +1,6 @@
 ## AutoDuo
 
-Bu Java Script kodu Duolingo için kolaylık sağlar.
+Bu Java Script kodu Duolingo için kolaylık sağlar. (Hikayelerde ve Konuşmalarda çalışmaz. Şimdi Konuşamıyorum'u seçin ve devam edin.)
 3 seçeneği bulunur:
 1. Çöz: Tekli çözer.
 2. Hepsini Çöz: Otomatik bir şekilde o dersin tüm sorularını çözer.
